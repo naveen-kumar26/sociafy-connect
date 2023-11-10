@@ -1,0 +1,54 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css');
+
+.heading{
+    margin-top: 30px;
+}
+
+.box{
+    height: 350px;
+    width: 50%;
+    
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 350px;
+    margin-top: 90px;
+    background-image: linear-gradient(to bottom right, #009245, #FCEE21);
+}
+
+.feild{
+   
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 75%;
+    margin-top: 10px;
+}
+
+
+
+input{
+    size: 100px;
+    height: 25px;
+    
+    border-radius: 0px;
+    font-size: 15px;
+    border: 0px solid black;
+}
+
+.log{
+    width: 90px;
+    height: 50px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(12, 12, 12) ;
+    color: #FCEE21;
+    font-weight: bolder;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-top: 10px;
+}
+
+.log p{
+    color: rgb(226, 221, 113);
+}
